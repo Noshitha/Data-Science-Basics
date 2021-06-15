@@ -1,0 +1,2 @@
+Perform Clustering for the crime data and 
+Identify the number of clusters formed and draw inferences.
